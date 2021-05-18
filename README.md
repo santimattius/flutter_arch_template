@@ -2,9 +2,9 @@
 
 # Arquitectura de la app
 
-## General
-
-## Capas(Layers)
+<p align="left">
+  <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/readme/screenshoot/flutter-clean-arch.png?raw=true" alt="Project packages"/>
+</p>
 
 ## Paquetes (Packages)
 
