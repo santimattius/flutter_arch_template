@@ -8,6 +8,10 @@
 
 ## Paquetes (Packages)
 
+<p align="left">
+  <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/readme/screenshoot/flutter_package_structure.png?raw=true" alt="Project packages"/>
+</p>
+
 ## Librerías (Dependencies)
 ```yaml
 dependencies:
