@@ -1,4 +1,7 @@
 # Flutter App Template
+Este proyecto es un template de una app en flutter utilizando clean architecture.
+
+A continuacion se describe la arquitectura de la app, estructurea del proyecto y las dependencias utilizadas.
 
 # Arquitectura de la app
 
@@ -6,13 +9,13 @@
   <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/readme/screenshoot/flutter-clean-arch.png?raw=true" alt="Project packages"/>
 </p>
 
-## Paquetes (Packages)
+## Estructura del proyecto
 
 <p align="left">
   <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/readme/screenshoot/flutter_package_structure.png?raw=true" alt="Project packages"/>
 </p>
 
-## Librerías (Dependencies)
+## Dependencias
 ```yaml
 dependencies:
   flutter:
@@ -43,3 +46,5 @@ dev_dependencies:
 
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Clean Code](https://blog.cleancoder.com/)
+- [Flutter DOC](https://flutter.dev/docs)
+- [Dart packages](https://pub.dev/)
