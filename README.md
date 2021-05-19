@@ -1,4 +1,6 @@
 # Flutter App Template
+[![codecov](https://codecov.io/gh/santimattius/flutter_arch_template/branch/master/graph/badge.svg?token=4BXJWN2QVC)](https://codecov.io/gh/santimattius/flutter_arch_template) 
+
 Este proyecto es un template de una app en flutter utilizando clean architecture.
 
 A continuacion se describe la arquitectura de la app, estructurea del proyecto y las dependencias utilizadas.
