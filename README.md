@@ -52,5 +52,5 @@ dev_dependencies:
 
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Clean Code](https://blog.cleancoder.com/)
-- [Flutter DOC](https://flutter.dev/docs)
+- [Flutter Documentation](https://flutter.dev/docs)
 - [Dart packages](https://pub.dev/)
