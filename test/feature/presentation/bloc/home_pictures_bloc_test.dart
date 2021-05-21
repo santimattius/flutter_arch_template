@@ -1,8 +1,8 @@
 import 'package:dartz/dartz.dart';
-import 'package:flutter_arch_template/features/pictures/domain/usecases/get_pictures.dart';
-import 'package:flutter_arch_template/features/pictures/presentation/bloc/home_pictures_bloc.dart';
-import 'package:flutter_arch_template/features/pictures/presentation/bloc/home_pictures_event.dart';
-import 'package:flutter_arch_template/features/pictures/presentation/bloc/home_pictures_state.dart';
+import 'package:flutter_arch_template/features/home/domain/usecases/get_pictures.dart';
+import 'package:flutter_arch_template/features/home/presentation/bloc/home_pictures_bloc.dart';
+import 'package:flutter_arch_template/features/home/presentation/bloc/home_pictures_event.dart';
+import 'package:flutter_arch_template/features/home/presentation/bloc/home_pictures_state.dart';
 import 'package:flutter_arch_template/shared/error/failures.dart';
 import 'package:flutter_arch_template/shared/usecases/usecase.dart';
 import 'package:flutter_test/flutter_test.dart';

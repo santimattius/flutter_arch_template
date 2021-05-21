@@ -1,5 +1,5 @@
-import 'package:flutter_arch_template/features/pictures/data/datasources/local_data_source.dart';
-import 'package:flutter_arch_template/features/pictures/data/models/picture_model.dart';
+import 'package:flutter_arch_template/features/home/data/datasources/local_data_source.dart';
+import 'package:flutter_arch_template/features/home/data/models/picture_model.dart';
 import 'package:flutter_arch_template/shared/error/exceptions.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:matcher/matcher.dart';

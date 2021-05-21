@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:dartz/dartz.dart';
-import 'package:flutter_arch_template/features/pictures/domain/entities/picture.dart';
-import 'package:flutter_arch_template/features/pictures/domain/usecases/get_pictures.dart';
+import 'package:flutter_arch_template/features/home/domain/entities/picture.dart';
+import 'package:flutter_arch_template/features/home/domain/usecases/get_pictures.dart';
 import 'package:flutter_arch_template/shared/error/failures.dart';
 import 'package:flutter_arch_template/shared/usecases/usecase.dart';
 import 'package:meta/meta.dart';

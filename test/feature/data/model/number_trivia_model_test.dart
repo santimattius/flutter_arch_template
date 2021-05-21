@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:flutter_arch_template/features/pictures/data/models/picture_model.dart';
-import 'package:flutter_arch_template/features/pictures/domain/entities/picture.dart';
+import 'package:flutter_arch_template/features/home/data/models/picture_model.dart';
+import 'package:flutter_arch_template/features/home/domain/entities/picture.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../../../fixtures/fixture_reader.dart';

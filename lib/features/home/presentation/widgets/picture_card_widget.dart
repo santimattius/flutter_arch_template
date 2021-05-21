@@ -1,6 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_arch_template/features/pictures/domain/entities/picture.dart';
+import 'package:flutter_arch_template/features/home/domain/entities/picture.dart';
+
+import 'loading_widget.dart';
 
 class PictureCard extends StatefulWidget {
   final Picture picture;
@@ -26,7 +28,7 @@ class _PictureCardState extends State<PictureCard> {
           children: [
             CachedNetworkImage(
               imageUrl: widget.picture.downloadUrl,
-              placeholder: (context, url) => CircularProgressIndicator(),
+              placeholder: (context, url) => LoadingWidget(),
               errorWidget: (context, url, error) => Icon(Icons.error),
             ),
             Align(

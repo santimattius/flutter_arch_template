@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:flutter_arch_template/features/pictures/domain/entities/picture.dart';
-import 'package:flutter_arch_template/features/pictures/domain/repositories/pictures_repository.dart';
+import 'package:flutter_arch_template/features/home/domain/entities/picture.dart';
+import 'package:flutter_arch_template/features/home/domain/repositories/pictures_repository.dart';
 import 'package:flutter_arch_template/shared/error/failures.dart';
 import 'package:flutter_arch_template/shared/usecases/usecase.dart';
 
