@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:flutter_arch_template/features/pictures/data/models/picture_model.dart';
+import 'package:flutter_arch_template/features/home/data/models/picture_model.dart';
 
 abstract class PictureModelMother {
   static List<PictureModel> generate() =>

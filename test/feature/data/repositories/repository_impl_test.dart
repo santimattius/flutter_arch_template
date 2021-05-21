@@ -1,8 +1,8 @@
 import 'package:dartz/dartz.dart';
-import 'package:flutter_arch_template/features/pictures/data/datasources/local_data_source.dart';
-import 'package:flutter_arch_template/features/pictures/data/datasources/remote_data_source.dart';
-import 'package:flutter_arch_template/features/pictures/data/repositories/pictures_repository_impl.dart';
-import 'package:flutter_arch_template/features/pictures/domain/entities/picture.dart';
+import 'package:flutter_arch_template/features/home/data/datasources/local_data_source.dart';
+import 'package:flutter_arch_template/features/home/data/datasources/remote_data_source.dart';
+import 'package:flutter_arch_template/features/home/data/repositories/pictures_repository_impl.dart';
+import 'package:flutter_arch_template/features/home/domain/entities/picture.dart';
 import 'package:flutter_arch_template/shared/error/exceptions.dart';
 import 'package:flutter_arch_template/shared/error/failures.dart';
 import 'package:flutter_arch_template/shared/network/network_info.dart';

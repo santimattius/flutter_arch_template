@@ -1,4 +1,4 @@
-import 'package:flutter_arch_template/features/pictures/domain/entities/picture.dart';
+import 'package:flutter_arch_template/features/home/domain/entities/picture.dart';
 
 import '../data/picture_model_mother.dart';
 
