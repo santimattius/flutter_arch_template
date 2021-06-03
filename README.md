@@ -3,7 +3,7 @@
 
 Este proyecto es un template de una app en flutter utilizando clean architecture.
 
-A continuacion se describe la arquitectura de la app, estructurea del proyecto y las dependencias utilizadas.
+A continuacion se describe la arquitectura de la app, estructura del proyecto y las dependencias utilizadas.
 
 <p align="left">
   <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/style_by_platform/screenshoot/flutter_ios_android.png?raw=true" alt="Project packages"/>
