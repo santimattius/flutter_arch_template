@@ -1,27 +1,27 @@
 # Flutter App Template
 [![codecov](https://codecov.io/gh/santimattius/flutter_arch_template/branch/master/graph/badge.svg?token=4BXJWN2QVC)](https://codecov.io/gh/santimattius/flutter_arch_template) [![travis](https://travis-ci.com/santimattius/flutter_arch_template.svg?token=P7xvicFZMo2reEHHNuJS&branch=master)](https://travis-ci.com/santimattius/flutter_arch_template)
 
-Este proyecto es un template de una app en flutter utilizando clean architecture.
+This project is a template of an app in flutter using clean architecture.
 
-A continuacion se describe la arquitectura de la app, estructura del proyecto y las dependencias utilizadas.
+The following describes the architecture of the app, the structure of the project and the dependencies used.
 
 <p align="left">
   <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/style_by_platform/screenshoot/flutter_ios_android.png?raw=true" alt="Project packages"/>
 </p>
 
-# Arquitectura de la app
+# Application architecture
 
 <p align="left">
   <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/style_by_platform/screenshoot/flutter_clean_arch.png?raw=true" alt="Project packages"/>
 </p>
 
-## Estructura del proyecto
+## Project structure
 
 <p align="left">
   <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/readme/screenshoot/flutter_package_structure.png?raw=true" alt="Project packages"/>
 </p>
 
-## Dependencias
+## Packages
 ```yaml
 dependencies:
   flutter:
@@ -48,7 +48,7 @@ dev_dependencies:
   mockito: ^5.0.7
   bloc_test: ^8.0.0
 ```
-## Referencias
+## References
 
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Clean Code](https://blog.cleancoder.com/)
