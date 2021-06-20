@@ -6,19 +6,19 @@ This project is a template of an app in flutter using clean architecture.
 The following describes the architecture of the app, the structure of the project and the dependencies used.
 
 <p align="left">
-  <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/style_by_platform/screenshoot/flutter_ios_android.png?raw=true" alt="Project packages"/>
+  <img src="https://github.com/santimattius/flutter_arch_template/blob/master/screenshoot/flutter_ios_android.png?raw=true" alt="Project packages"/>
 </p>
 
 # Application architecture
 
 <p align="left">
-  <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/style_by_platform/screenshoot/flutter_clean_arch.png?raw=true" alt="Project packages"/>
+  <img src="https://github.com/santimattius/flutter_arch_template/blob/master/screenshoot/flutter_clean_arch.png?raw=true" alt="Project packages"/>
 </p>
 
 ## Project structure
 
 <p align="left">
-  <img src="https://github.com/santimattius/flutter_arch_template/blob/feature/readme/screenshoot/flutter_package_structure.png?raw=true" alt="Project packages"/>
+  <img src="https://github.com/santimattius/flutter_arch_template/blob/master/screenshoot/flutter_package_structure.png?raw=true" alt="Project packages"/>
 </p>
 
 ## Packages
